@@ -49,3 +49,4 @@ signed main()
 
 }
 //binary search
+//O(longn)
