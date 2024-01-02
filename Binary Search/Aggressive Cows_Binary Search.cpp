@@ -48,3 +48,4 @@ signed main()
 	cout<<r<<endl;// 3
 
 }
+//binary search
